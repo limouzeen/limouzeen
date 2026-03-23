@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Amarat 👋
 
 ### 🚀 Developer & Tech Enthusiast
@@ -18,13 +20,15 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limouzeen&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limouzeen&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=limouzeen&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limouzeen&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 
 ---
 
 ### 📫 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
