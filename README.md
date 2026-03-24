@@ -2,7 +2,7 @@
 
 # Hi, I'm Amarat 👋
 
-### 🚀 Developer & Tech Enthusiast
+### 🚀Junior Developer & Tech Enthusiast
 "Turning ideas into code and problems into solutions."
 
 ---
